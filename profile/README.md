@@ -1,7 +1,7 @@
 
 
 # Eduarda Vieira Study
-<img width="961" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/1b623695-0c80-4673-861e-978119e59be9" />
+<img width="961" height="200" alt="github-header-image (2)" src="https://github.com/user-attachments/assets/f8181826-7397-4f16-9a3c-ae9abbb910e0" />
 
 <br/><br/>
 Seja bem-vindo(a) à minha organização no GitHub!
